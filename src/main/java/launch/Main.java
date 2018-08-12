@@ -15,7 +15,14 @@ import org.apache.catalina.webresources.StandardRoot;
 public class Main {
 
     public static void main(String[] args) throws Exception {
-
+         System.out.println("OEOEOEOOEEOEOEOEOE");
+System.out.println("OEOEOEOOEEOEOEOEOE");
+         System.out.println("OEOEOEOOEEOEOEOEOE");
+System.out.println("OEOEOEOOEEOEOEOEOE");
+         System.out.println("OEOEOEOOEEOEOEOEOE");
+System.out.println("OEOEOEOOEEOEOEOEOE");
+         System.out.println("OEOEOEOOEEOEOEOEOE");
+System.out.println("OEOEOEOOEEOEOEOEOE");
         String webappDirLocation = "src/main/webapp/";
         Tomcat tomcat = new Tomcat();
 
